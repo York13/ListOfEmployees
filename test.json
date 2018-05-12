@@ -6,7 +6,7 @@
 			"birthday": "1987-03-23",
 			"avatr_url": "http://img2.russia.ru/upimg/author/451/image.jpg",
 			"specialty": {
-				"specialty_id": "101",
+				"specialty_id": 101,
 				"name": "Менеджер"
 			}
 		},
@@ -16,7 +16,7 @@
 			"birthday": null,
 			"avatr_url": "http://img2.russia.ru/upimg/author/489/image.jpg",
 			"specialty": {
-				"specialty_id": "101",
+				"specialty_id": 101,
 				"name": "Менеджер"
 			}
 		},
@@ -26,11 +26,11 @@
 			"birthday": "1985-11-29",
 			"avatr_url": "http://img2.russia.ru/upimg/author/422/image.jpg",
 			"specialty": {
-				"specialty_id": "101",
+				"specialty_id": 101,
 				"name": "Менеджер"
 			},
 			{
-				"specialty_id": "102",
+				"specialty_id": 102,
 				"name": "Разработчик"
 			}
 		},
@@ -40,7 +40,7 @@
 			"birthday": "1990-01-07",
 			"avatr_url": "",
 			"specialty": {
-				"specialty_id": "102",
+				"specialty_id": 102,
 				"name": "Разработчик"
 			}
 		},
@@ -50,7 +50,7 @@
 			"birthday": "",
 			"avatr_url": null,
 			"specialty": {
-				"specialty_id": "102",
+				"specialty_id": 102,
 				"name": "Разработчик"
 			}
 		},
@@ -60,7 +60,7 @@
 			"birthday": "23-07-2000",
 			"avatr_url": "http://img2.russia.ru/upimg/author/317/image.jpg",
 			"specialty": {
-				"specialty_id": "102",
+				"specialty_id": 102,
 				"name": "Разработчик"
 			}
 		},
@@ -70,7 +70,7 @@
 			"birthday": "23-07-2000",
 			"avatr_url": "http://img2.russia.ru/upimg/author/316/image.jpg",
 			"specialty": {
-				"specialty_id": "102",
+				"specialty_id": 102,
 				"name": "Разработчик"
 			}
 		},
@@ -80,7 +80,7 @@
 			"birthday": "23-07-1982",
 			"avatr_url": "http://img2.russia.ru/upimg/author/313/image.jpg",
 			"specialty": {
-				"specialty_id": "102",
+				"specialty_id": 102,
 				"name": "Разработчик"
 			}
 		},
@@ -90,7 +90,7 @@
 			"birthday": "17-10-1984",
 			"avatr_url": "http://img2.russia.ru/upimg/author/313/mage.jpg",
 			"specialty": {
-				"specialty_id": "102",
+				"specialty_id": 102,
 				"name": "Разработчик"
 			}
 		},
@@ -100,7 +100,7 @@
 			"birthday": "03-08-1972",
 			"avatr_url": "http://img2.russia.ru/upimg/author/233/image.jpg",
 			"specialty": {
-				"specialty_id": "102",
+				"specialty_id": 102,
 				"name": "Разработчик"
 			}
 		}
